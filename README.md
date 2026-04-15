@@ -166,6 +166,40 @@ python api/app.py
 
 ---
 
+## 📋 Project Tasks
+
+### Phase 1: Analysis
+- [ ] [#1](https://github.com/jalona99/stuntguard/issues/1) — Write Requirements Specification Document
+- [ ] [#2](https://github.com/jalona99/stuntguard/issues/2) — Literature Review: WHO Growth Standards & ML
+- [ ] [#3](https://github.com/jalona99/stuntguard/issues/3) — Firebase & Flutter Environment Setup
+
+### Phase 2: Design
+- [ ] [#4](https://github.com/jalona99/stuntguard/issues/4) — System Architecture Document
+- [ ] [#5](https://github.com/jalona99/stuntguard/issues/5) — Database Schema Design
+- [ ] [#6](https://github.com/jalona99/stuntguard/issues/6) — Figma UI/UX Wireframes
+- [ ] [#7](https://github.com/jalona99/stuntguard/issues/7) — ML Model Design & Feature Engineering Plan
+
+### Phase 3: Development
+- [ ] [#8](https://github.com/jalona99/stuntguard/issues/8) — M1: Auth — Register Screen
+- [ ] [#9](https://github.com/jalona99/stuntguard/issues/9) — M1: Auth — Login Screen
+- [ ] [#10](https://github.com/jalona99/stuntguard/issues/10) — M1: Child Profile — Add & Manage
+- [ ] [#11](https://github.com/jalona99/stuntguard/issues/11) — M2: Growth Tracking — Input Form
+- [ ] [#12](https://github.com/jalona99/stuntguard/issues/12) — M2: Growth Tracking — History & Charts
+- [ ] [#13](https://github.com/jalona99/stuntguard/issues/13) — M2: Growth Tracking — Export PDF/CSV
+- [ ] [#14](https://github.com/jalona99/stuntguard/issues/14) — M3: Classification — Flask ML API
+- [ ] [#15](https://github.com/jalona99/stuntguard/issues/15) — M3: Classification — Alert UI in Flutter
+- [ ] [#16](https://github.com/jalona99/stuntguard/issues/16) — ML: Synthetic Dataset Generation
+- [ ] [#17](https://github.com/jalona99/stuntguard/issues/17) — ML: Train & Evaluate Decision Tree Model
+
+### Phase 4: Testing
+- [ ] [#18](https://github.com/jalona99/stuntguard/issues/18) — Functional Test Cases (min 30)
+- [ ] [#19](https://github.com/jalona99/stuntguard/issues/19) — SUS Usability Testing (n≥20)
+- [ ] [#20](https://github.com/jalona99/stuntguard/issues/20) — ML Validation Against Z-Score Baseline (50 edge cases)
+
+**Project Board:** [StuntGuard Development](https://github.com/users/jalona99/projects/2)
+
+---
+
 ## 📚 References
 
 - Ruaida, N. (2018). *Faktor-faktor yang berhubungan dengan kejadian stunting pada balita.* Universitas Muhammadiyah Manado.
